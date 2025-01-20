@@ -1,0 +1,15 @@
+body {
+  background-color: cadetblue;
+}
+.container {
+  font-weight: bold;
+}
+.container-links a {
+  color: rgb(115, 0, 255);
+}
+.lasagna-container,
+.container,
+.gabagool-container,
+.krabby-container {
+  font-family: "Courier New", Courier, monospace;
+}
