@@ -13,3 +13,21 @@ body {
 .krabby-container {
   font-family: "Courier New", Courier, monospace;
 }
+.container-links li {
+  display: inline;
+  padding: 5px;
+}
+
+h1 {
+  color: black;
+  font-size: 50px;
+}
+
+.krabby,
+.return,
+.gabagool,
+.title-lasagna,
+.container-links ul,
+.container {
+  text-align: center;
+}
